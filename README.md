@@ -1,2 +1,3 @@
-# Tests
-this is me trying to test githup
+# Hello World
+
+This is a readme for first project!
